@@ -1,9 +1,8 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view/>
+  <!-- <div id="nav"><router-link to="/">Home</router-link> |</div> -->
+  <h1>Welcome to this Rubbish Tracker y'all!</h1>
+  <p>This took 4x attempts to push to Github JFC</p>
+  <router-view />
 </template>
 
 <style>
